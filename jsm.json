@@ -477,7 +477,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-			"jar": "./lib/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"	  
+			"jar": "./lib/fan.txt"	  
 		},
 		{
 			"key": "火狐",
