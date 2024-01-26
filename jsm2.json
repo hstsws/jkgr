@@ -554,6 +554,17 @@
 			"changeable": 1,
 			"ext": "https://www.czzy66.com/"
 		},
+		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
+        {"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
+        {"key":"js_海洋听书","name":"📚️听书┃海洋","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/sea.js"},
+        {"key":"js_六月听书","name":"📚️听书┃六月","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/6yue.js"},
+        {"key":"js_听书网","name":"📚️听书┃天天","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tingshu.js"},
+        {"key":"js_有声小说","name":"📚️听书┃有声","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/yousheng.js"},
+        {"key":"js_中华听书网","name":"📚️听书┃中华","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},		
+        {"key":"喜马拉雅","name":"📚️听书┃喜马拉雅","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/ximalaya.js"},
+		{"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Blixs.json"},
+		{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
+        {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
 	    {
             "key": "MissAV",
             "name": "MissAV需挂梯",
@@ -563,7 +574,7 @@
         },
 		{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
 		{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
-        {"key":"国产","name":"顶级国产","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.333},"ext":{"分类url":"https://roro23wew.qoqavideo8.xyz/vodtype/{cateId}/page/{catePg}.html","直接播放":"1","分类":"国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"},"jar":"./lib/fan.txt"},
+        {"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
         {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"./lib/drpy2.min.js","ext":"./js/猫了个咪.js"},
 		{
             "key": "Jable",
