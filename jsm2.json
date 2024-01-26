@@ -20,10 +20,9 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
-		{"key":"PikPakShare2","name":"PikPak分享2","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass2.json$$$./lib/pikpakclass2.json.txt.gz"},
 		{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt"},
-		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt"},
 		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt"},
+		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt"},
 		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
@@ -31,23 +30,6 @@
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
-		},
-		{
-			"key": "996影院",
-			"name": "996影院",
-			"type": 3,
-			"api": "csp_Cs1369",
-			"searchable": 1,
-			"changeable": 1,
-			"ext":"https://www.cs1369.com$$$null$$$1"
-		},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1
 		},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
 		{
@@ -87,6 +69,15 @@
 		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"Ys23","name":"影视23","type":3,"api":"csp_Ys23","quickSearch":1, "changeable":1, "filterable":1, "timeout":30},
+		{
+			"key": "996影院",
+			"name": "996影院",
+			"type": 3,
+			"api": "csp_Cs1369",
+			"searchable": 1,
+			"changeable": 1,
+			"ext":"https://www.cs1369.com$$$null$$$1"
+		},
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
@@ -175,8 +166,8 @@
 			"api": "csp_Bdys01",
 			"type": 3,
 			"filterable": 1,
+			"searchable":1,
 			"quickSearch": 1,
-			"searchable": 1,
 			"ext": "https://www.bdys03.com/$$$null$$$1"
 		},
 		{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
@@ -430,6 +421,23 @@
 		},
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
+			"key": "短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 0,
+			"changeable": 1
+		},
+		{
+			"key":"MV_vod",
+			"name":"电视┃MTV",
+			"type":1,
+			"api": "https://mv.wogg.link/mv/vod",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
 			"key": "drpy_js_爱看机器人",
 			"name": "影视 | 爱看机器人[js]",
 			"type": 3,
@@ -563,7 +571,8 @@
         {"key":"js_中华听书网","name":"📚️听书┃中华","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},		
 		{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
         {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
-	    {
+		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
+		{
             "key": "MissAV",
             "name": "MissAV需挂梯",
             "type": 3,
@@ -791,23 +800,6 @@
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 1
         },
-		{
-			"key": "ext_live_protocol",
-			"name": "关注公众号“肥猫宝贝”",
-			"type": 3,
-			"api": "http://alist.xn--z7x900a.love:63/协议.js",
-			"ext": "clan://proxy?sourcekey=ext_live_protocol"
-		},
-		{
-			"key":"MV_vod",
-			"name":"电视┃MTV",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
 			"name": "應用商店",
