@@ -567,6 +567,15 @@
 			"changeable": 1,
 			"ext": "https://www.czzy66.com/"
 		},
+		{
+			"key": "csp_appys_布蕾",
+			"name": "🏌️布蕾",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.bl4k.xyz/api.php/app/"},
 		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
         {"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
         {"key":"js_海洋听书","name":"📚️听书┃海洋","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/sea.js"},
@@ -576,8 +585,6 @@
         {"key":"js_中华听书网","name":"📚️听书┃中华","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},		
 		{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
         {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
             "key": "MissAV",
