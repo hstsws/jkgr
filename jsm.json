@@ -442,6 +442,18 @@
 			"changeable": 0
 		},
 		{
+            "key": "csp_Czsapp",
+            "name": "🏭麻衣┃呀呼",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "ext": "https://www.huanyuxing.com/",
+            "filterable": 1
+        },
+		{
 			"key": "drpy_js_爱看机器人",
 			"name": "影视 | 爱看机器人[js]",
 			"type": 3,
