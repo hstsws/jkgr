@@ -446,17 +446,6 @@
 			"ext": "./js/ikanbot3.js"
 		},
 		{
-			"key": "影视车",
-			"name": "🚌影视车┃转存万兆线路",
-			"type": 3,
-			"api": "csp_Wogg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/wogg.json"
-		},
-		{
 			"key": "玩偶哥哥",
 			"name": "👽玩偶哥哥┃原画千兆线路",
 			"type": 3,
