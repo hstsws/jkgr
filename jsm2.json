@@ -595,27 +595,27 @@
         },
 		{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
 		{
-      "key": "drpy_js_玩偶姐姐",
-      "name": "🍓玩偶姐姐(js)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "filterable": 1,
-      "ext": "./lib/玩偶姐姐.js"
-    },
+      	 "key": "drpy_js_玩偶姐姐",
+      	 "name": "🍓玩偶姐姐(js)",
+      	 "type": 3,
+      	 "api": "./lib/drpy2.min.js",
+      	 "filterable": 1,
+      	 "ext": "./lib/玩偶姐姐.js"
+    	},
 		{
-      "key": "csp_CandyMuj_rou",
-      "name": "💖肉视频(墙外)",
-      "type": 3,
-      "api": "csp_CandyMuj_rou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "jar": "./lib/candymuj.jar"
-    },
+      	 "key": "csp_CandyMuj_rou",
+      	 "name": "💖肉视频(墙外)",
+      	 "type": 3,
+      	 "api": "csp_CandyMuj_rou",
+      	 "searchable": 1,
+      	 "quickSearch": 1,
+      	 "filterable": 1,
+      	 "style": {
+         "type": "rect",
+         "ratio": 1.33
+      	 },
+      	 "jar": "./lib/candymuj.jar"
+    	},
 		{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
         {"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
         {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"./lib/drpy2.min.js","ext":"./js/猫了个咪.js"},
