@@ -464,15 +464,15 @@
 			"ext": "./js/ikanbot3.js"
 		},
 		{
-			"key": "影视车",
-			"name": "🚌影视车┃转存万兆线路",
+			"key": "Wodoudou",
+			"name": "👽PG·玩偶豆豆",
 			"type": 3,
-			"api": "csp_Wogg",
+			"api": "csp_Wobg",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/wogg.json"
+			"ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
 		},
 		{
 			"key": "玩偶哥哥",
