@@ -2,17 +2,6 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{
-            "key": "Wodoudou",
-            "name": "👽PG·玩偶豆豆",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
-        },
-		{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
@@ -474,17 +463,17 @@
 			"changeable": 1,
 			"ext": "./js/ikanbot3.js"
 		},
-		{
-			"key": "影视车",
-			"name": "🚌影视车┃转存万兆线路",
-			"type": 3,
-			"api": "csp_Wogg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/wogg.json"
-		},
+{
+            "key": "Wodoudou",
+            "name": "👽PG·玩偶豆豆",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
+        },
 		{
 			"key": "玩偶哥哥",
 			"name": "👽玩偶哥哥┃原画千兆线路",
