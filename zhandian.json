@@ -115,7 +115,7 @@
 			"type": 3,
 			"playerType": "1",
 			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/LIBVIO.js",
+			"ext": "./lib/LIBVIO.js"
 		},
 		{
 			"key": "FreeOK",
@@ -130,8 +130,7 @@
 			"type": 3,
 			"api": "csp_Yingtantv2",
 			"searchable": 1,
-			"jar": "./lib/zdzj.jar",
-			"jar": "./lib/PandaQ240222.jar"
+			"jar": "./lib/zdzj.jar"
 		},
 		{
 			"key": "saohuo",
@@ -250,8 +249,7 @@
 			"type": 3,
 			"api": "csp_Movie2",
 			"ext": "./lib/Movie5.json",
-			"jar": "http://www.wya6.cn/tz/wyog.php",
-			"jar": "./lib/PandaQ240222.jar"
+			"jar": "http://www.wya6.cn/tz/wyog.php"
 		},
 		{
 			"key": "csp_Voflix",
