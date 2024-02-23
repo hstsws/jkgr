@@ -31,7 +31,18 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-			"jar": "./lib/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"
+			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "Czsapp",
+			"name": "📔厂长┃直连",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.czzy55.com/"
 		},
 		{
 			"key": "NanGua",
@@ -110,14 +121,6 @@
 			"jar": "./lib/PandaQ240222.jar"
 		},
 		{
-			"key": "Libvio",
-			"name": "💐┃Lib┃影视",
-			"type": 3,
-			"playerType": "1",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/LIBVIO.js"
-		},
-		{
 			"key": "FreeOK",
 			"name": "️️👌┃Fre┃影视",
 			"type": 3,
@@ -139,14 +142,6 @@
 			"playerType": "2",
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/骚火.js"
-		},
-		{
-			"key": "爱看影视",
-			"name": "❤┃爱看┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/爱看.js"
 		},
 		{
 			"key": "圣城影视",
@@ -274,8 +269,7 @@
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
-			"ext": "http://op.ysdqjs.cn$$$null$$$1",
-			"jar": "./lib/PandaQ240222.jar"
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
 			"key": "賤賤",
@@ -466,17 +460,6 @@
 			  "日本动漫",
 			  "欧美动漫"
 			]
-		},
-		{
-			"key": "Czsapp",
-			"name": "📔厂长┃直连",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.czzy55.com/"
 		},
 		{
 			"key": "應用商店",
