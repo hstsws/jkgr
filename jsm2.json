@@ -523,7 +523,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"ext": "https://www.czzy55.com/",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+			"jar": "./lib/custom_spider.jar"
 		},
 		{
 			"key": "NanGua",
