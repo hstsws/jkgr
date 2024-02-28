@@ -44,22 +44,7 @@
 			"timeout": 30,
 			"ext": "$$$./lib/yt.json$$$1"
 		},
-		{
-			"key": "宇宙",
-			"name": "👿宇宙4K自营",
-			"type": 3,
-			"api": "csp_LvDou",
-			"jar": "./pg.jar",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"playerType": 1,
-			"ext": {
-				"server": "http://ds1.yuzhoukeji.top/api.php/app/",
-				"mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
-				"danmu": true
-			}},
+		{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"./pg.jar","token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"},
 		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
