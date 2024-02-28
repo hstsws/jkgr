@@ -49,6 +49,7 @@
 			"name": "👿宇宙4K自营",
 			"type": 3,
 			"api": "csp_LvDou",
+			"jar": "./pg.jar",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
