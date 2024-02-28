@@ -44,7 +44,7 @@
 			"timeout": 30,
 			"ext": "$$$./lib/yt.json$$$1"
 		},
-		{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"./pg.jar","token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"},
+		{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"},
 		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
