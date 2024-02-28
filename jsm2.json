@@ -66,6 +66,17 @@
 		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$1"},
 		{
+			"key": "Zhuiyitv",
+			"name": "追忆|App",
+			"type": 3,
+			"api": "csp_Zhuiyitv",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "$$$./lib/yt.json$$$1"
+		},
+		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
 			"type": 3,
