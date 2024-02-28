@@ -44,7 +44,15 @@
 			"timeout": 30,
 			"ext": "$$$./lib/yt.json$$$1"
 		},
-		{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar","token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"},
+		{"key": "csp_XBPQ_6V",
+			"name": "🧿宇宙4K专享",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar" : "https://d.kstore.space/download/4637/jar/spider.jar;md5;f6eac2c1831ccd0215892f30c306958f",
+			"ext":"https://download.kstore.space/download/4637/lib/6v.json"},
 		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
