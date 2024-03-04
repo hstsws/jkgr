@@ -534,6 +534,13 @@
 			]
 		},
 		{
+			"key": "JOJO",
+			"name": "🐺┃JOJO┃影视",
+			"type": 3,
+			"api": "./js/jiohub.js",
+			"playerType": 1
+		},
+		{
 			"key": "Czsapp",
 			"name": "📔厂长┃直连",
 			"type": 3,

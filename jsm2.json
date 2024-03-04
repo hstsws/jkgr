@@ -552,6 +552,14 @@
 			]
 		},
 		{
+			"key": "JOJO",
+			"name": "🐺┃JOJO┃影视",
+			"type": 3,
+			"api": "./js/jiohub.js",
+			"playerType": 1
+		},
+		{"key":"私密影院","name":"私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{
 			"key": "Czsapp",
 			"name": "📔厂长┃直连",
 			"type": 3,
