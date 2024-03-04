@@ -36,6 +36,8 @@
 		{"key":"新浪资源","name":"🔴新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"快云资源","name":"🔴快云资源","type":1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"四圈资源","name":"🔴四圈资源","type":1,"api": "https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"私密影院","name":"🔴私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"IKUN","name":"🔴IKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 		{
             "key": "haiwaikan",
             "name": "🛫┃海外看┃墙外",
@@ -78,6 +80,49 @@
                 "经典片"
             ]
         },
+		{
+			"key": "火狐",
+			"name": "\uD83D\uDD34茶杯狐",
+			"type": 1,
+			"api": "https://hhzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"categories": [
+			"内地剧",
+			"动作片",
+			"科幻片",
+			"战争片",
+			"喜剧片",
+			"爱情片",
+			"恐怖片",
+			"犯罪片",
+			"剧情片",
+			"冒险片",
+			"记录片",
+			"韩剧",
+			"香港剧",
+			"台湾剧",
+			"欧美剧",
+			"日剧",
+			"马泰剧",
+			"体育赛事",
+			"综艺",
+			"动画片",
+			"中国动漫",
+			"日本动漫",
+			"欧美动漫"
+		]
+	},
+		{
+			"key": "乐乐",
+			"name": "\uD83D\uDD34┃乐乐┃影视",
+			"type": 1,
+			"api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
 		{"key":"森林资源","name":"🟣森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"探探资源","name":"🟣探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key": "csp_Missav", "name": "🟣MISSAV", "type": 3, "api": "csp_Missav", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1},
@@ -100,4 +145,6 @@
 		{"key":"辣椒资源","name":"🟣辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"甜蜜资源","name":"🟣甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"奶香香","name":"🟣奶香香","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1}]}
+		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+]}
