@@ -124,6 +124,15 @@
 			"ext": "./js/ikanbot3.js"
 		},
 		{
+			"key": "Fangniu4k",
+			"name": "放牛4K",
+			"type": 3,
+			"api": "csp_Fangniu4k",
+			"searchable": 1,
+			"changeable": 1,
+			"jar":" ./lib/fangniu.jar"
+		},
+		{
 			"key": "酷看",
 			"name": "💡酷看┃App",
 			"type": 3,
