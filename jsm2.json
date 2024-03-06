@@ -518,6 +518,15 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
+			"key": "Fangniu4k",
+			"name": "放牛4K",
+			"type": 3,
+			"api": "csp_Fangniu4k",
+			"searchable": 1,
+			"changeable": 1,
+			"jar":"./lib/fangniu.jar"
+		},
+		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
 			"type": 1,
