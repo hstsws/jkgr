@@ -82,7 +82,7 @@
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
 		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":60, "ext":"./lib/tokenm.json$$$https://662688.xyz"},
-		{"key":"盘搜","name":"盘搜|网盘","type":3,"api":"csp_PanSou","timeout":60, "ext":"./lib/tokenm.json"},
+		{"key":"盘友圈","name":"盘友圈|网盘","type":3,"api":"csp_Panyq","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":60, "ext":"./lib/tokenm.json$$$./lib/yiso.txt"},
 		{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"秒搜","name":"秒搜|网盘","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"./lib/tokenm.json"},
@@ -829,6 +829,39 @@
 		{"key":"js_中华听书网","name":"📚️听书┃中华","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/zhonghua.js"},		
 		{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
 		{"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
+		{
+			"key":"MV_vod",
+			"name":"电视┃MTV",
+			"type":1,
+			"api": "https://mv.wogg.link/mv/vod",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "酷狗",
+			"name": "酷狗",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Iktv",
+			"name": "KTV",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Yinyuetai",
+			"name": "音悦台",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
