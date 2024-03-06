@@ -130,7 +130,7 @@
 			"api": "csp_Fangniu4k",
 			"searchable": 1,
 			"changeable": 1,
-			"jar":"https://github.wjz121.shop/https://raw.githubusercontent.com/wjz121/jkgr/main/lib/fangniu.jar"
+			"jar":"./lib/fangniu.jar"
 		},
 		{
 			"key": "酷看",
