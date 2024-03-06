@@ -130,7 +130,7 @@
 			"api": "csp_Fangniu4k",
 			"searchable": 1,
 			"changeable": 1,
-			"jar":" ./lib/fangniu.jar"
+			"jar":"./lib/fangniu.jar"
 		},
 		{
 			"key": "酷看",
