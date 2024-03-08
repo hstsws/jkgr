@@ -492,15 +492,6 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
-			"key": "Fangniu4k",
-			"name": "放牛4K",
-			"type": 3,
-			"api": "csp_Fangniu4k",
-			"searchable": 1,
-			"changeable": 1,
-			"jar":"https://github.wjz121.shop/https://raw.githubusercontent.com/wjz121/jkgr/main/lib/fangniu.jar"
-		},
-		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
 			"type": 1,
@@ -560,6 +551,13 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/厂长资源.js",
 			"jar": "./lib/custom_spider.jar"
+		},
+		{
+			"key": "drpy_js_在线之家",
+			"name": "影视 | 在线之家[js]",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/在线之家.js"
 		},
 		{
 			"key": "NanGua",
