@@ -1,4 +1,6 @@
-{"sites":[	
+{"sites":[
+		{"key":"360资源","name":"🟡360资源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key": "短剧", "name": "🟡种子短剧", "type": 1, "api": "https://zzdj.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
 		{"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 		{"key": "haiwaikan", "name": "🟡海外看", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 		{"key": "Czsapp", "name": "🟢厂长资源", "type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://czz9.com/"},
@@ -6,8 +8,9 @@
 		{"key": "csp_Ddrk", "name": "🟢低端影视", "type": 3, "api": "csp_Ddrk", "playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1},
 		{"key":"csp_Bdys","name":"🟢哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Zxzj","name":"🟢在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
+		{"key": "csp_Jiohub", "name": "🔵JOJO", "type": 3, "api": "csp_Jiohub", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1},
 		{"key": "Gitcafe", "name": "🔵小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ju990c.i996.me/TS1/token.json"},
-		{"key": "\u73a9\u5076\u54e5", "name": "🔵玩偶哥哥", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$\u5173"},
+		{"key": "csp_WoGG", "name": "🔵玩偶哥哥", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$\u5173"},
 	    {"key":"快看资源","name":"🔴快看资源","type":1,"api":"https://www.kuaikanzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"索尼资源","name":"🔴索尼资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"非凡资源","name":"🔴非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},

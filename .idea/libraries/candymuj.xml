@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="candymuj">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/candymuj.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
