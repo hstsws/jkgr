@@ -886,6 +886,16 @@
 			"ext": "./lib/种子短剧.js",
 			"playerType": 2
 		},
+		{
+			"key": "苹果",
+			"name": "🍎苹果┃无广",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
+		},
 		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 		{"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
 		{"key":"js_海洋听书","name":"📚️听书┃海洋","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/sea.js"},
