@@ -1369,6 +1369,7 @@
         },
 		{"key":"森林资源","name":"🟣森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"探探资源","name":"🟣探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key": "csp_Missav", "name": "🟣MISSAV", "type": 3, "api": "csp_Missav", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1},
 		{"key":"奥斯卡资源网","name":"🟣奥斯卡资源网","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"老鸭资源采集","name":"🟣老鸭资源采集","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"皇冠","name":"🟣皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -1388,7 +1389,10 @@
 		{"key":"辣椒资源","name":"🟣辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"甜蜜资源","name":"🟣甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"奶香香","name":"🟣奶香香","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"精品资源","name":"🟣精品资源","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"甜蜜资源","name":"🟣甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"草榴资源","name":"🟣草榴资源","type":1,"api":"https://www.caoliuzyw.com/api.php/prodao/vod/","searchable":1,"quickSearch":1},
+		{"key":"夜色资源","name":"🟣夜色资源","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
@@ -1644,6 +1648,6 @@
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+		"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

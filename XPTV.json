@@ -11,7 +11,10 @@
 		{"key": "csp_Jiohub", "name": "🔵JOJO", "type": 3, "api": "csp_Jiohub", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1},
 		{"key": "Gitcafe", "name": "🔵小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ju990c.i996.me/TS1/token.json"},
 		{"key": "csp_WoGG", "name": "🔵玩偶哥哥", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$\u5173"},
-	    {"key":"快看资源","name":"🔴快看资源","type":1,"api":"https://www.kuaikanzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key": "csp_age", "name": "🟢AGE动漫", "type": 3, "api": "csp_age", "searchable": 1, "quickSearch": 1, "filterable": 1},
+		{"key": "csp_girlgirllove", "name": "🟢ギリギリ动漫", "type": 3, "api": "csp_girlgirllove", "searchable": 1, "quickSearch": 1, "filterable": 1},
+		{"key": "四九资源", "name": "🔴四九资源", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+		{"key":"快看资源","name":"🔴快看资源","type":1,"api":"https://www.kuaikanzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"索尼资源","name":"🔴索尼资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"非凡资源","name":"🔴非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"量子资源","name":"🔴量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -115,6 +118,9 @@
 		{"key":"辣椒资源","name":"🟣辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"甜蜜资源","name":"🟣甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"奶香香","name":"🟣奶香香","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"精品资源","name":"🟣精品资源","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"甜蜜资源","name":"🟣甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"草榴资源","name":"🟣草榴资源","type":1,"api":"https://www.caoliuzyw.com/api.php/prodao/vod/","searchable":1,"quickSearch":1},
+		{"key":"夜色资源","name":"🟣夜色资源","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
-]}
+		]}

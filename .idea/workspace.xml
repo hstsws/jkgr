@@ -6,25 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3d3c1adb-d207-4261-b1a1-a87eb850009a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPTV.json" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/alishare.ebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alishare.ebook.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/drpy2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drpy2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/feimaolive.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/feimaolive.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gbk.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/gbk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/getsearchtxt.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/getsearchtxt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jianpian.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jianpian.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/moli.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/moli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pikpakclass.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pikpakclass.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pikpakclass.template.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pikpakclass.template.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/quarkshare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/quarkshare.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokentemplate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wogg.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wogg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/yt.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/yt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zhandian.json" beforeDir="false" afterPath="$PROJECT_DIR$/zhandian.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,22 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240331-1447/jsm.json",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240331-1447/jsm.json",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240331-1447/jsm.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240331-1447/jsm.json&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -74,7 +58,8 @@
       <workItem from="1711615092344" duration="769000" />
       <workItem from="1711616928197" duration="562000" />
       <workItem from="1711699988163" duration="9000" />
-      <workItem from="1711900564890" duration="1499000" />
+      <workItem from="1711900564890" duration="2260000" />
+      <workItem from="1711903174515" duration="495000" />
     </task>
     <task id="LOCAL-00001" summary="部分修改">
       <option name="closed" value="true" />
@@ -148,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711901301317</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1711902155832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711902155832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1711902705663</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711902705663</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
