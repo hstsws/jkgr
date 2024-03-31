@@ -20,58 +20,6 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		{
-			"key": "Alist",
-			"name": "馃専灏忛泤鈹冮珮娓�",
-			"type": 3,
-			"api": "http://192.168.1.11:5678/tvbox/libs/alist.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": [
-				{
-					"name": "涓粰濂�",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/",
-					"search": true
-				},
-				{
-					"name": "姣忔棩鏇存柊",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/姣忔棩鏇存柊"
-				},
-				{
-					"name": "鐢靛奖",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/鐢靛奖"
-				},
-				{
-					"name": "鐢佃鍓�",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/鐢佃鍓�"
-				},
-				{
-					"name": "缁艰壓",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/缁艰壓"
-				},
-				{
-					"name": "绾綍鐗�",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/绾綍鐗�"
-				},
-				{
-					"name": "鍔ㄦ极",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/鍔ㄦ极"
-				},
-				{
-					"name": "鍎跨",
-					"server": "http://192.168.1.11:5678/",
-					"startPage": "/鍔ㄦ极/鍎跨"
-				}
-			]
-		},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
