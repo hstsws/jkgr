@@ -696,7 +696,7 @@
 			"ext": "./js/ikanbot3.js"
 		},
 		{
-			"key": "玩偶1",
+			"key": "玩偶哥哥",
 			"name": "👽玩偶哥哥┃4K弹幕",
 			"type": 3,
 			"api": "csp_WoGG",
@@ -707,9 +707,9 @@
 				"aliToken": "tvfan/token.txt",
 				"quarkCookie": "tvfan/cookie.txt",
 				"from": "4k|auto|fhd",
-				"siteUrl": "https://wogg.xyz/",
+				"siteUrl": "https://api.wogg.xyz/",
 				"danMu": "弹",
-				"jar": "./lib/fty.jar"
+				"jar": "./lib/fty.jar;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f"
 			}
 		},
 		{
