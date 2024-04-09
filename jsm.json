@@ -20,19 +20,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
 		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -45,12 +33,6 @@
 			}
 		},
 		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -85,7 +67,6 @@
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
-		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$proxy$$$1"},
 		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
@@ -203,40 +184,6 @@
 				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
 				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
 				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-			}
-		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
-			"ext": {
-				"站名": "黑狐影院",
-				"主页url": "http://fagmn.com",
-				"数组": "class=\"stui-vodlist__box\"&&</a",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-				"过滤词": "/hls/#php",
-				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-				"搜索模式": "1",
-				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索链接": "href=\"&&\"",
-				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索后缀": "/view/",
-				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-				"线路标题": ">&&<",
-				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-				"状态": "地区：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "简介：&&</div>",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"播放链接": "href=\"&&\"",
-				"免嗅": "0",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
 		{
@@ -665,28 +612,8 @@
 			"ext":"https://www.duanjutv.icu"
 		},
 		{
-			"key": "drpy_js_爱看机器人",
-			"name": "影视 | 爱看机器人[js]",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./js/爱看机器人.js"
-		},
-		{
-			"key": "drpy_js_ikanbot2",
-			"name": "影视 | 爱看机器人2[js]",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./js/ikanbot2.js"
-		},
-		{
 			"key": "drpy_js_ikanbot3",
-			"name": "影视 | 爱看机器人3[js]",
+			"name": "影视 | 爱看机器人[js]",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"searchable": 1,
@@ -707,7 +634,7 @@
 		},
 		{
 			"key": "玩偶哥哥",
-			"name": "👽玩偶哥哥┃原画千兆线路",
+			"name": "👽玩偶哥哥┃阿里",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -718,7 +645,7 @@
 		},
 		{
 			"key": "玩偶",
-			"name": "👽玩偶哥哥┃4K弹幕",
+			"name": "👽玩偶哥哥┃阿里&夸克",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -741,7 +668,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/fty.jar"
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "白嫖",
@@ -753,7 +680,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"ext": "https://www.baipiaoys.com:9092/",
-			"jar": "./lib/fty.jar"
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "火狐",
@@ -790,13 +717,6 @@
 			]
 		},
 		{
-			"key": "JOJO",
-			"name": "🐺┃JOJO┃影视",
-			"type": 3,
-			"api": "./js/jiohub.js",
-			"playerType": 1
-		},
-		{
 			"key": "Czsapp",
 			"name": "📔厂长┃直连",
 			"type": 3,
@@ -824,7 +744,6 @@
 			"changeable": 1,
 			"ext": "null$$$1"
 		},
-		{"key":"Yingtantv","name":"影探|直连","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 		{
 			"key": "酷看",
 			"name": "💡酷看┃App",

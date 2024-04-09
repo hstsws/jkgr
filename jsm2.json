@@ -826,7 +826,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/fty.jar"
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "白嫖",
@@ -838,7 +838,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"ext": "https://www.baipiaoys.com:9092/",
-			"jar": "./lib/fty.jar"
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "火狐",
@@ -874,13 +874,6 @@
 				"欧美动漫"
 			]
 		},
-		{
-			"key": "JOJO",
-			"name": "🐺┃JOJO┃影视",
-			"type": 3,
-			"api": "./js/jiohub.js",
-			"playerType": 1
-		},
 		{"key":"私密影院","name":"私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "Czsapp",
@@ -891,8 +884,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.czzy77.com/",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee"
+			"ext": "https://www.czys01.com/",
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "drpy_js_在线之家",
@@ -910,7 +903,6 @@
 			"changeable": 1,
 			"ext": "null$$$1"
 		},
-		{"key":"Yingtantv","name":"影探|直连","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 		{
 			"key": "酷看",
 			"name": "💡酷看┃App",
