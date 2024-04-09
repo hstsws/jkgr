@@ -137,7 +137,6 @@
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
-		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1"},
@@ -695,19 +694,15 @@
 			"ext": "./js/ikanbot3.js"
 		},
 		{
-			"key": "玩偶gg",
-			"name": "👽玩偶哥哥┃4K弹幕",
+			"key": "Wodoudou",
+			"name": "👽PG·玩偶豆豆",
 			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
+			"api": "csp_Wobg",
 			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"aliToken": "tvfan/token.txt",
-				"quarkCookie": "tvfan/cookie.txt",
-				"from": "4k|auto|fhd",
-				"siteUrl": "https://api.wogg.xyz/"
-			}
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
 		},
 		{
 			"key": "玩偶哥哥",
