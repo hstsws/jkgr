@@ -709,7 +709,7 @@
 				"from": "4k|auto|fhd",
 				"siteUrl": "https://api.wogg.xyz/",
 				"danMu": "弹",
-				"jar": "./lib/fan.txt"
+				"jar": "./lib/fan.txt;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f"
 			}
 		},
 		{
