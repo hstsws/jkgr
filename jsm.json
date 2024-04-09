@@ -718,6 +718,23 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
+			"key": "玩偶",
+			"name": "👽玩偶哥哥┃4K弹幕",
+			"type": 3,
+			"api": "csp_WoGG",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": {
+				"aliToken": "tvfan/token.txt",
+				"quarkCookie": "tvfan/cookie.txt",
+				"from": "4k|auto|fhd",
+				"siteUrl": "https://api.wogg.xyz/",
+				"danMu": "弹"
+			},
+			"jar": "./lib/fan.txt"
+		},
+		{
 			"key": "苹果",
 			"name": "🍎苹果┃无广",
 			"type": 3,
