@@ -7,7 +7,6 @@
     <list default="true" id="3d3c1adb-d207-4261-b1a1-a87eb850009a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +25,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240409-1808/jsm.json",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240409-1808/jsm.json",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-1147/jsm.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-1147/jsm.json&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -68,7 +67,12 @@
       <workItem from="1712648486826" duration="2683000" />
       <workItem from="1712651222375" duration="210000" />
       <workItem from="1712652199133" duration="176000" />
-      <workItem from="1712674058014" duration="624000" />
+      <workItem from="1712674058014" duration="1381000" />
+      <workItem from="1712675691063" duration="124000" />
+      <workItem from="1712676045460" duration="1734000" />
+      <workItem from="1712686449105" duration="59000" />
+      <workItem from="1712900746900" duration="280000" />
+      <workItem from="1712909951017" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="部分修改">
       <option name="closed" value="true" />
@@ -358,7 +362,87 @@
       <option name="project" value="LOCAL" />
       <updated>1712674502830</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712674694344</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1712674694344</updated>
+    </task>
+    <task id="LOCAL-00038" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712674950189</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1712674950189</updated>
+    </task>
+    <task id="LOCAL-00039" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712675118163</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1712675118163</updated>
+    </task>
+    <task id="LOCAL-00040" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712675127902</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1712675127902</updated>
+    </task>
+    <task id="LOCAL-00041" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712675342666</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1712675342666</updated>
+    </task>
+    <task id="LOCAL-00042" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712675806195</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1712675806195</updated>
+    </task>
+    <task id="LOCAL-00043" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712677959151</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1712677959151</updated>
+    </task>
+    <task id="LOCAL-00044" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712678136496</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1712678136496</updated>
+    </task>
+    <task id="LOCAL-00045" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712686501309</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1712686501309</updated>
+    </task>
+    <task id="LOCAL-00046" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712910029220</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1712910029220</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
