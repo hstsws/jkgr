@@ -145,7 +145,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://www.bdys10.com/$$$null$$$1"
+			"ext": "https://www.yjys.me/$$$null$$$1"
 		},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
@@ -404,7 +404,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://www.bdys03.com/$$$null$$$1"
+			"ext": "https://www.yjys.me/$$$null$$$1"
 		},
 		{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
 		{
@@ -744,36 +744,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "drpy_js_爱看机器人",
-			"name": "影视 | 爱看机器人[js]",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./js/爱看机器人.js"
-		},
-		{
-			"key": "drpy_js_ikanbot2",
-			"name": "影视 | 爱看机器人2[js]",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./js/ikanbot2.js"
-		},
-		{
-			"key": "drpy_js_ikanbot3",
-			"name": "影视 | 爱看机器人3[js]",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "./js/ikanbot3.js"
-		},
-		{
 			"key": "Wodoudou",
 			"name": "👽PG·玩偶豆豆",
 			"type": 3,
@@ -783,17 +753,6 @@
 			"filterable": 1,
 			"timeout": 30,
 			"ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
-		},
-		{
-			"key": "玩偶哥哥",
-			"name": "👽玩偶哥哥┃原画千兆线路",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-			"jar": "./lib/fan1.txt"
 		},
 		{
 			"key": "玩偶",
@@ -811,6 +770,15 @@
 				"danMu": "弹"
 			},
 			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "Fangniu4k",
+			"name": "👎放牛┃TV┃App",
+			"type": 3,
+			"api": "csp_WexFangniu4k",
+			"searchable": 1,
+			"changeable": 1,
+			"jar": "./lib/wex.txt"
 		},
 		{
 			"key": "苹果",

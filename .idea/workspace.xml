@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3d3c1adb-d207-4261-b1a1-a87eb850009a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhandian.json" beforeDir="false" afterPath="$PROJECT_DIR$/zhandian.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +33,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2206/lib/wgcf.json&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240413-0853/jsm.json&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2206/lib/wgcf.json&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240413-0853/jsm.json&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -82,15 +79,9 @@
       <workItem from="1712931404294" duration="641000" />
       <workItem from="1712936975717" duration="325000" />
       <workItem from="1712937317625" duration="432000" />
-      <workItem from="1712978907710" duration="760000" />
-    </task>
-    <task id="LOCAL-00003" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1711614800114</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1711614800114</updated>
+      <workItem from="1712978907710" duration="1133000" />
+      <workItem from="1712986422356" duration="106000" />
+      <workItem from="1713015814888" duration="2035000" />
     </task>
     <task id="LOCAL-00004" summary="部分修改">
       <option name="closed" value="true" />
@@ -476,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712937621855</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712979838031</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1712979838032</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
