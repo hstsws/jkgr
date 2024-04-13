@@ -772,15 +772,6 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
-			"key": "Fangniu4k",
-			"name": "👎放牛┃TV┃App",
-			"type": 3,
-			"api": "csp_WexFangniu4k",
-			"searchable": 1,
-			"changeable": 1,
-			"jar": "./lib/wex.txt"
-		},
-		{
 			"key": "苹果",
 			"name": "🍎苹果┃无广",
 			"type": 3,
