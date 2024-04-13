@@ -1413,6 +1413,18 @@
 		{"key":"草榴资源","name":"🟣草榴资源","type":1,"api":"https://www.caoliuzyw.com/api.php/prodao/vod/","searchable":1,"quickSearch":1},
 		{"key":"夜色资源","name":"🟣夜色资源","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"老色逼资源","name":"🟣老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"csp_njav","name":"💖njav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+			"数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
+			"图片":"data-preview=\"&&\"",
+			"链接":"href=\"&&\"",
+			"链接前缀":"https://njav.xyz/zh/",
+			"简介":"class=\"detail\">&&</a>",
+			"播放数组":"class=\"col&&</div>",
+			"播放链接":"iframe*src=\"&&\"",
+			"直接播放":"1",
+			"搜索url":"https://njav.xyz/zh/search?keyword={wd}",
+			"分类url":"https://njav.xyz/zh/{cateId}?page={catePg}",
+			"分类":"全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"},"jar":"./jar/XBPQ.jar"},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",

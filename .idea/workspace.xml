@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3d3c1adb-d207-4261-b1a1-a87eb850009a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aliproxy.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokenm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wgcf.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wgcf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
@@ -29,22 +30,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2319/lib/wgcf.json",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2319/lib/wgcf.json",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2206/lib/wgcf.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240412-2206/lib/wgcf.json&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -80,22 +81,8 @@
       <workItem from="1712928262980" duration="87000" />
       <workItem from="1712931404294" duration="641000" />
       <workItem from="1712936975717" duration="325000" />
-    </task>
-    <task id="LOCAL-00001" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1711611763761</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1711611763762</updated>
-    </task>
-    <task id="LOCAL-00002" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1711612142399</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1711612142399</updated>
+      <workItem from="1712937317625" duration="432000" />
+      <workItem from="1712978907710" duration="760000" />
     </task>
     <task id="LOCAL-00003" summary="部分修改">
       <option name="closed" value="true" />
@@ -473,7 +460,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712931987440</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712937364680</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1712937364681</updated>
+    </task>
+    <task id="LOCAL-00051" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1712937621855</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1712937621855</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
